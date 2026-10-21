@@ -1,0 +1,13 @@
+product_id,product_name,category,current_stock,avg_daily_units_sold,total_units_sold,sales_days,current_inventory_value
+P008,Pen Set,Stationery,110,16.23,2922,180,6600.0
+P002,USB-C Cable,Electronics,55,12.19,2195,180,9900.0
+P004,Notebook Pack,Stationery,70,9.83,1769,180,6300.0
+P001,Wireless Mouse,Electronics,18,5.57,1002,180,11700.0
+P009,Coffee Mug,Home,42,4.94,889,180,9240.0
+P011,Phone Stand,Accessories,35,4.38,789,180,10500.0
+P003,Water Bottle,Lifestyle,12,4.03,725,180,3000.0
+P012,Lunch Box,Lifestyle,16,3.85,693,180,6400.0
+P006,Backpack,Lifestyle,24,3.61,650,180,28800.0
+P010,Keyboard,Electronics,7,2.77,498,180,10150.0
+P005,Desk Lamp,Home,5,2.38,429,180,4750.0
+P007,Bluetooth Speaker,Electronics,9,2.01,361,180,15750.0

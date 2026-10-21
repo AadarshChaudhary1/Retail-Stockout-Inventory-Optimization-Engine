@@ -1,0 +1,13 @@
+product_id,product_name,category,current_stock,supplier_lead_time_days,unit_cost,target_cover_days
+P001,Wireless Mouse,Electronics,18,4,650.0,14
+P002,USB-C Cable,Electronics,55,3,180.0,14
+P003,Water Bottle,Lifestyle,12,6,250.0,21
+P004,Notebook Pack,Stationery,70,2,90.0,14
+P005,Desk Lamp,Home,5,8,950.0,21
+P006,Backpack,Lifestyle,24,5,1200.0,14
+P007,Bluetooth Speaker,Electronics,9,7,1750.0,21
+P008,Pen Set,Stationery,110,2,60.0,14
+P009,Coffee Mug,Home,42,4,220.0,14
+P010,Keyboard,Electronics,7,6,1450.0,21
+P011,Phone Stand,Accessories,35,3,300.0,14
+P012,Lunch Box,Lifestyle,16,5,400.0,14
